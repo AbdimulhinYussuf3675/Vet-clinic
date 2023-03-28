@@ -1,3 +1,11 @@
+## Getting Started
+
+This repository includes files with plain SQL that can be used to recreate a database:
+
+- Use [schema.sql](./schema.sql) to create all tables.
+- Use [data.sql](./data.sql) to populate tables with sample data.
+- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
+
 <a name="readme-top"></a>
 
 <div align="center">
@@ -29,29 +37,22 @@
 
 # 📖<a name="about-project">Sinemafix</a>
 
-> "Sinemafix", is a web application using real live data from the imdb-API. The website allows users to check severals movies, its description and are also able to sent their preview.
+> "Vet Clinic", project is made for Microverse project assignment for database using SQL and pgAdmin 4. This is relational data base of different pokemons.
 
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://html.com/">Html</a></li>
-    <li><a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS</a></li>
-    <li><a href="https://www.javascript.com/">JavaScript</a></li>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
 </details>
 
 ### Key Features <a name="key-features"></a>
 
-- **Fetch real live data from the SpaceX API**
-- **SPA**
-- **Redux State Management**
+- **Store pets basic info**
+- **Store pets escape attempts**
+- **Store pets neutered status**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo](https://adamspace.onrender.com/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -62,69 +63,24 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
+-  A PostgreSQL instance runing in your PC.
 
 ### Setup
 
-To set up this app:
+Clone this repository to your machine:
 
-clone this repository to your disired folder and using the above command
-
-```sh
-    cd my-folder
-    git clone https://github.com/AbdimulhinYussuf3675/Space_Travelers--Hub.git
-    cd Space_Travelers--Hub
+```sh cd my-folder
+git clone git@github.com:AbdimulhinYussuf3675/Vet-clinic.git
 ```
 
-Install dependencies
+### Install
+Install this project with:
+Run SQL comands in [schema.sql](./schema.sql) and [data.sql](./data.sql)
 
-```sh
-    npm install -y
-```
+### Usage
+To run the project, execute the following command:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Run SQL commands in [queries.sql](./queries.sql) to test your database
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -139,9 +95,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ]**Add signUp and signIn for user accounts**
-- [ ]**Add full profile with user's full details**
-- [ ]**Add a Comment and preview section**
+-**Database performance audit**
+
+-**Add "join table" for visits**
+
+-**Fetch to an existing Application**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
