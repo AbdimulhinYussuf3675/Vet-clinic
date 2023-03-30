@@ -9,3 +9,22 @@ CREATE TABLE IF NOT EXISTS animals (
     weight_kg DECIMAL NOT NULL);
 
 ALTER TABLE animals ADD COLUMN species VARCHAR(200);
+
+CREATE TABLE IF NOT EXISTS owners(
+    id SERIAL PRIMARY KEY,
+    full_name VARCHAR(25),
+    age INTEGER
+    );
+CREATE TABLE IF NOT EXISTS species(
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(25)
+    ),
+
+ALTER TABLE animals
+    DROP COLUMN species,
+    ADD COLUMN species_id INTEGER,
+    ADD COLUMN owners_id INTEGER,
+    ADD CONSTRAINT fk_species FOREIGN KEY (species_id)
+        REFERENCES species(id),
+    ADD CONSTRAINT fk_owners FOREIGN KEY (owner_id)
+        REFERENCES owners(id);
