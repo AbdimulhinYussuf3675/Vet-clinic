@@ -90,6 +90,14 @@ Run SQL commands in [queries.sql](./queries.sql) to test your database
 - Twitter: [@abdimulhin](https://twitter.com/abdimulhin)
 - LinkedIn: [Abdimulhin Adan](https://github.com/AbdimulhinYussuf3675)
 
+👤 **Iptisam Mukadam**
+
+- GitHub: [@iptisam](https://github.com/Iptysam)
+
+- Twitter: [@twitter](https://twitter.com/IptisamMukadam)
+
+- LinkedIn: [@linkedin](https://www.linkedin.com/in/iptisam-mukadam)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

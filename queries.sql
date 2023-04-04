@@ -149,3 +149,8 @@ SELECT species.name AS new_maysys_speciality FROM visits
   GROUP BY species.name
   ORDER BY count(species.name) DESC
   LIMIT 1;
+
+-- Performance queries
+EXPLAIN ANALYZE SELECT COUNT(*) FROM visits where animal_id = 4;
+EXPLAIN ANALYZE SELECT * FROM visits where vets_id = 2;
+EXPLAIN ANALYZE SELECT * FROM owners where email = 'owner_18327@mail.com';
