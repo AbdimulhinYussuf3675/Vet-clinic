@@ -44,6 +44,15 @@ This repository includes files with plain SQL that can be used to recreate a dat
 # Project Screenshot
 
 <div align="center">
+  <img src="er_diagram.png" alt="logo"  color="red"  height="80%" />
+ 
+  </div>
+ <br/>
+<a name="readme-top"></a>
+
+# Project Screenshot
+
+<div align="center">
   <img src="project.png" alt="logo"  color="red"  height="80%" />
  
   </div>
