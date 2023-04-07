@@ -35,10 +35,19 @@ This repository includes files with plain SQL that can be used to recreate a dat
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖<a name="about-project">Sinemafix</a>
+# 📖<a name="about-project">Vet Clinic</a>
 
 > "Vet Clinic", project is made for Microverse project assignment for database using SQL and pgAdmin 4. This is relational data base of different pokemons.
 
+<a name="readme-top"></a>
+
+# Project Screenshot
+
+<div align="center">
+  <img src="project.png" alt="logo"  color="red"  height="80%" />
+ 
+  </div>
+ <br/>
 <details>
   <summary>Client</summary>
   <ul>
@@ -93,15 +102,15 @@ Run SQL commands in [queries.sql](./queries.sql) to test your database
 👤 **Iptisam Mukadam**
 
 - GitHub: [@iptisam](https://github.com/Iptysam)
-
 - Twitter: [@twitter](https://twitter.com/IptisamMukadam)
-
 - LinkedIn: [@linkedin](https://www.linkedin.com/in/iptisam-mukadam)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
+
+-**Database diagram, interpret it, and implement the SQL needed to build that database**
 
 -**Database performance audit**
 
