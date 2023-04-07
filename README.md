@@ -102,15 +102,15 @@ Run SQL commands in [queries.sql](./queries.sql) to test your database
 👤 **Iptisam Mukadam**
 
 - GitHub: [@iptisam](https://github.com/Iptysam)
-
 - Twitter: [@twitter](https://twitter.com/IptisamMukadam)
-
 - LinkedIn: [@linkedin](https://www.linkedin.com/in/iptisam-mukadam)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
+
+-**Database diagram, interpret it, and implement the SQL needed to build that database**
 
 -**Database performance audit**
 
