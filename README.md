@@ -35,10 +35,19 @@ This repository includes files with plain SQL that can be used to recreate a dat
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖<a name="about-project">Sinemafix</a>
+# 📖<a name="about-project">Vet Clinic</a>
 
 > "Vet Clinic", project is made for Microverse project assignment for database using SQL and pgAdmin 4. This is relational data base of different pokemons.
 
+<a name="readme-top"></a>
+
+# Project Screenshot
+
+<div align="center">
+  <img src="project.png" alt="logo"  color="red"  height="80%" />
+ 
+  </div>
+ <br/>
 <details>
   <summary>Client</summary>
   <ul>
